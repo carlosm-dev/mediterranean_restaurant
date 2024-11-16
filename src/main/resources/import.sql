@@ -1,4 +1,6 @@
 insert into cozinha(nome) values('Tailandesa')
 insert into cozinha(nome) values('Indiana')
-
 insert into restaurante (nome, taxa_frete, cozinha_id) values ('Thai Gourmet',10,1)
+insert into forma_pagamento (descricao,restaurante_id) values ('Cartao Credito',1)
+insert into estado (nome) values('MG')
+insert into cidade (nome,estado_id) values ('Monte Carmelo', 1)

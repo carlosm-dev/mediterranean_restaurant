@@ -1,4 +1,4 @@
-package br.com.mediterranean.restaurant.domain.repository;
+package br.com.mediterranean.restaurant.repository;
 
 import java.util.List;
 
